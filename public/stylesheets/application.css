@@ -1,0 +1,26 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    color: violet;
+    font-size: 72px;
+}
+
+p{
+    font-size: 28px;
+    color: rgba(144, 199, 144, 0.918);
+}
+
+p a{
+    color: pink;
+    text-decoration: none;
+}
+
+#boba {
+    color:plum;
+}
+
+.taco {
+    color: hotpink;
+}
